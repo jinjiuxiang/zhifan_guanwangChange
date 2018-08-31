@@ -685,9 +685,21 @@ ul li{
     font-size: 16px;
     line-height: 16px;
   }
+  .lod3-div li{
+    margin-top: 8px;
+  }
   .lod4-div li{
     font-size: 16px;
     line-height: 16px;
+  }
+  .lod6-div li{
+    margin-top: 8px;
+  }
+  .lod4-div li{
+    margin-top: 8px;
+  }
+  .lod5-div li{
+    margin-top: 8px;
   }
   .lod5-div li{
     font-size: 16px;

@@ -18,7 +18,7 @@
       <!-- 1 -->
       <div class="lod lod1">
         <p class="animated fadeInLeft">CHAINDIGG-用数据为区块链护航</p>
-        <img class="img" src="../assets/images/index/lod011.png"/>
+        <img class="img" src="../assets/images/index/lod011.jpg"/>
       </div>
       <!-- 2 -->
       <div class="lod lod2">
@@ -133,13 +133,13 @@
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-ms-12">
-            <img class="img" src="../assets/images/index/lod04.svg"/>
+            <img class="img" src="../assets/images/index/lod04.png"/>
 
           </div>
         </div>
         <div class="row moileNone">
           <div class="col-lg-6 col-md-6 col-ms-12">
-            <img class="img" src="../assets/images/index/lod04.svg"/>
+            <img class="img" src="../assets/images/index/lod04.png"/>
 
           </div>
           <div class="col-lg-6 col-md-6 col-ms-12">
@@ -260,7 +260,7 @@
                 <span>市场负责人</span>
               </p>
               <p class="manMain">
-                丰富的市场活动、宣传经验，善于提炼用户需求，把握市场机会，合理调配内外部关系,曾就职于方正集团，并拥有三年创业公司工作经验。
+                丰富的市场活动、宣传经验，善于提炼用户需求，把握市场机会，合理调配内外部关系，曾就职于方正集团，并拥有三年创业公司工作经验。
               </p>
             </div>
           </div>
@@ -274,31 +274,31 @@
           <div class="pcNone">
             <ul class="list1 clearfix ">
 
-              <a href="#" onclick="return false"><img class="fImg01" src="../assets/images/index/kushen.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg02" src="../assets/images/index/jiedianziben.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg03" src="../assets/images/index/chuangshiziben.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg04" src="../assets/images/index/fengwo.svg"/> </a>
+              <a href="#" onclick="return false"><img class="fImg01" src="../assets/images/index/kushen.png"/> </a>
+              <a href="#" onclick="return false"><img class="fImg02" src="../assets/images/index/jiedianziben.png"/> </a>
+              <a href="#" onclick="return false"><img class="fImg03" src="../assets/images/index/chuangshiziben.png"/> </a>
+              <a href="#" onclick="return false"><img class="fImg04" src="../assets/images/index/fengwo.png"/> </a>
               <a href="#" onclick="return false"><img class="fImg05" src="../assets/images/index/jinsecaijing.svg"/> </a>
             </ul>
             <ul class="list2">
               <a href="#" onclick="return false"><img class="fImg06" src="../assets/images/index/xiaocong.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg07" src="../assets/images/index/bishijie.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg08" src="../assets/images/index/AToken.svg"/> </a>
-              <a href="#" onclick="return false"><img class="fImg09" src="../assets/images/index/buluoke.svg"/> </a>
+              <a href="#" onclick="return false"><img class="fImg07" src="../assets/images/index/bishijie.png"/> </a>
+              <a href="#" onclick="return false"><img class="fImg08" src="../assets/images/index/AToken.png"/> </a>
+              <a href="#" onclick="return false"><img class="fImg09" src="../assets/images/index/buluoke.png"/> </a>
 
             </ul>
           </div>
           <div class="moileNone">
-            <a href="#" onclick="return false"><img class="fImg01" src="../assets/images/index/kushen.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg02" src="../assets/images/index/jiedianziben.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg03" src="../assets/images/index/chuangshiziben.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg04" src="../assets/images/index/fengwo.svg"/> </a>
+            <a href="#" onclick="return false"><img class="fImg01" src="../assets/images/index/kushen.png"/> </a>
+            <a href="#" onclick="return false"><img class="fImg02" src="../assets/images/index/jiedianziben.png"/> </a>
+            <a href="#" onclick="return false"><img class="fImg03" src="../assets/images/index/chuangshiziben.png"/> </a>
+            <a href="#" onclick="return false"><img class="fImg04" src="../assets/images/index/fengwo.png"/> </a>
             <a href="#" onclick="return false"><img class="fImg05" src="../assets/images/index/jinsecaijing.svg"/> </a>
 
             <a href="#" onclick="return false"><img class="fImg06" src="../assets/images/index/xiaocong.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg07" src="../assets/images/index/bishijie.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg08" src="../assets/images/index/AToken.svg"/> </a>
-            <a href="#" onclick="return false"><img class="fImg09" src="../assets/images/index/buluoke.svg"/> </a>
+            <a href="#" onclick="return false"><img class="fImg07" src="../assets/images/index/bishijie.png"/> </a>
+            <a href="#" onclick="return false"><img class="fImg08" src="../assets/images/index/AToken.png"/> </a>
+            <a href="#" onclick="return false"><img class="fImg09" src="../assets/images/index/buluoke.png"/> </a>
 
           </div>
         </div>
